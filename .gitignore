@@ -1,0 +1,24 @@
+# Ambiente virtual
+venv/
+.env/
+.env.bak/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
+.DS_Store
+
+# Streamlit
+.streamlit/config.toml
+
+# IDEs
+.vscode/
+.idea/
